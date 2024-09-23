@@ -1,0 +1,4 @@
+﻿  Source2.cpp
+C:\Users\adapt\source\repos\PW_1_6\Task2\Source2.cpp(8,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\adapt\source\repos\PW_1_6\Task2\Source2.cpp(27,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Task2.vcxproj -> C:\Users\adapt\source\repos\PW_1_6\x64\Debug\Task2.exe
